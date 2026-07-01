@@ -6,7 +6,7 @@ The objective of this study is to carry out the exploratory data analysis, model
 
 This project was done with academic intent, so it cant and it WONT be used as reference for real life problems and crisis. 
 
-**PT**-Este projeto foi desenvolvido durante o sprint de Machine Learning e Analytics do Mestrado em Ciência de Dados e Analytics da Pontifícia Universidade Católica do Rio de Janeiro, com o objetivo de analisar os dados do Titanic — contendo informações sobre os passageiros da embarcação — e criar um modelo de classificação para prever a sobrevivência ou não das pessoas a bordo, com base em características como idade, sexo, classe do passageiro, entre outras.
+**PT**-Este projeto foi desenvolvido durante o sprint de Machine Learning e Analytics da Pós-Graduação em Ciência de Dados e Analytics da Pontifícia Universidade Católica do Rio de Janeiro, com o objetivo de analisar os dados do Titanic — contendo informações sobre os passageiros da embarcação — e criar um modelo de classificação para prever a sobrevivência ou não das pessoas a bordo, com base em características como idade, sexo, classe do passageiro, entre outras.
 
 O objetivo deste estudo é realizar a análise exploratória dos dados e as etapas de modelagem, criar um modelo de classificação para prever a sobrevivência no acidente do Titanic e correlacionar os dados com o evento real.
 
